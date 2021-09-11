@@ -57,6 +57,9 @@ The following image shows a mock-up of the generated HTML’s appearance and fun
 ## Sample
 [https://github.com/DSpenn/HW10-Team-Profile-Generator/blob/main/dist/index.html](https://github.com/DSpenn/HW10-Team-Profile-Generator/blob/main/dist/index.html)
 
+## Deployed Link
+https://pgpguru.github.io/ubiquitous-doodle/
+
 ## Directory-Structure
 ```md
 tests/			         jest tests
